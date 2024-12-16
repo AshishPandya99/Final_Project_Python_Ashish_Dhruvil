@@ -58,11 +58,9 @@ This project analyzes the impact of COVID-19 on customer volumes and revenue acr
 
 ## Requirements
 - Python 3.x
-- Libraries: `pandas`, `matplotlib`
+- Libraries: `pandas`, `matplotlib`, 'Seaborn', 'numpy'
 
 ## Author
-Your Name  
-Your Contact Information or LinkedIn Profile
+Ashish Pandya
+Dhruvil Patel
 
-## License
-This project is licensed under the MIT License.
